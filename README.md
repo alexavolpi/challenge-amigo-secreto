@@ -1,4 +1,4 @@
-# 🤫🎄❄️ Amigo Secreto: Operação Natal ❄️🎄🤫
+<h1 align="center"> 🤫🎄❄️ Amigo Secreto: Operação Natal ❄️🎄🤫 </h1>
 
 ![Banner do Projeto](https://raw.githubusercontent.com/alexavolpi/challenge-amigo-secreto/main/assets/readme3.png)
 
